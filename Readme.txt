@@ -1,0 +1,1 @@
+I've done these problems just for fun.  Most were done before I took Algorithms, but then retouched during Algorithms for much faster solutions.
